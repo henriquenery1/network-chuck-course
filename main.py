@@ -1,4 +1,4 @@
-#This code is the couse of NetworkChuch on Youtube
+#This code is the course of NetworkChuch on Youtube
 
 print('Hello, welcome to NetworkChuck Coffee!')
 
